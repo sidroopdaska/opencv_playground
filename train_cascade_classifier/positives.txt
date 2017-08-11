@@ -1,0 +1,13 @@
+./positive_images/IMG_8654.JPG
+./positive_images/IMG_8655.JPG
+./positive_images/IMG_8656.JPG
+./positive_images/IMG_8657.JPG
+./positive_images/IMG_8658.JPG
+./positive_images/IMG_8659.JPG
+./positive_images/IMG_8660.JPG
+./positive_images/IMG_8662.JPG
+./positive_images/IMG_8663.JPG
+./positive_images/IMG_8664.JPG
+./positive_images/IMG_8665.JPG
+./positive_images/IMG_8666.JPG
+./positive_images/IMG_8667.JPG
