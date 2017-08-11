@@ -98,10 +98,15 @@ ENV/
 # mypy
 .mypy_cache/
 
-# custom files
 positive_images/*
+!positive_images/.gitkeep
+
 negative_images/*
+!negative_images/.gitkeep
+
 samples/*
+!samples/.gitkeep
+
 positives.txt
 negatives.txt
 
